@@ -1,7 +1,7 @@
 # Proyecto Alura Latam - Juego del Amigo Secreto
 ![Image](https://github.com/user-attachments/assets/bd7b87b6-0749-4d3c-a9e9-fa12f8f37dba)
 ## Descripción:
-##### El juego del amigo secreto es un juego en el que un grupo de personas intercambian regalos de manera anónima. Es un juego popular en Navidad, pero se puede jugar en otras ocasiones.
+##### La dinámica del amigo secreto es un juego en el que un grupo de personas intercambian regalos de manera anónima. Es un juego popular en Navidad, pero se puede jugar en otras ocasiones.
 ##### Para jugar, se eligen los nombres de los participantes al azar y se procede a realizar el sorteo.
 
 ## Descripción de los componentes del software:
